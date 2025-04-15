@@ -14,6 +14,7 @@ Dự án bao gồm các bước chính:
 ---
 
 ## 🏗️ Cấu trúc thư mục
+```
 Group-8---project/
 ├── 📁 data/                        # Thư mục chứa dữ liệu
 │   ├── 📁 raw/                     # Dữ liệu gốc ban đầu
@@ -29,7 +30,7 @@ Group-8---project/
 │
 ├── README.md                     # Tài liệu mô tả dự án
 └── requirements.txt             # Danh sách thư viện cần cài
-
+```
 ---
 
 ## 🚀 Cách chạy dự án
@@ -37,44 +38,49 @@ Group-8---project/
 ### 1. Clone Repository
 Mở terminal hoặc command prompt và chạy lệnh sau:
 
-```bash
+```
 git clone https://github.com/Phung-Thu-Trang/Group-8---project.git
 cd Group-8---project
 ```
 
-### 2. Tạo Môi trường ảo (Khuyến nghị)
-Khuyến khích sử dụng môi trường ảo để tránh xung đột thư viện:
-
-```bash
-# Lệnh cho Linux/macOS
-python3 -m venv venv
-source venv/bin/activate
-
-# Lệnh cho Windows
-python -m venv venv
-.\venv\Scripts\activate
-```
-
-### 3. Cài đặt các thư viện cần thiết
+### 2. Cài đặt các thư viện cần thiết
 Cài đặt tất cả các thư viện được liệt kê trong file requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Chạy Jupyter Notebook
-Khởi động Jupyter Notebook từ terminal:
+### 3. Chạy Jupyter Notebook trong Visual Studio Code
+Nếu bạn sử dụng VS Code làm môi trường phát triển, bạn có thể chạy các file .ipynb một cách trực tiếp mà không cần dùng lệnh jupyter notebook. Làm theo các bước sau:
 
-```bash
-jupyter notebook
+⚙️ Cài đặt yêu cầu
+Mở VS Code.
+
+Cài đặt extension "Jupyter" (của Microsoft) nếu chưa có:
+
+Vào Extensions (Ctrl + Shift + X)
+
+Tìm "Jupyter" và bấm Install.
+
+Đảm bảo bạn đã cài ipykernel trong môi trường Python hiện tại:
 ```
-Trình duyệt web của bạn sẽ mở ra giao diện Jupyter. Điều hướng đến thư mục notebooks/ và mở các file theo thứ tự sau để thực hiện quy trình phân tích:
+pip install ipykernel
+```
+▶️ Chạy notebook
+Mở file .ipynb trong thư mục notebooks/ bằng cách click đúp trong trình duyệt file của VS Code.
+
+Ở đầu mỗi ô (cell), bạn sẽ thấy nút ▶️ (Run Cell). Bấm vào đó để chạy từng cell.
+
+Bạn cũng có thể bấm Run All để chạy toàn bộ notebook.
+
+📍 Thứ tự chạy:
 
 00-problem-statement.ipynb: Đặt vấn đề và mục tiêu.
-01-data-clearing.ipynb: Chạy notebook này để thực hiện quá trình làm sạch dữ liệu. Dữ liệu đã làm sạch sẽ được lưu vào data/processed/.
-02-analysis.ipynb: Chạy notebook này để thực hiện phân tích và xem các trực quan hóa dựa trên dữ liệu đã được làm sạch.
+
+01-data-clearing.ipynb: Làm sạch dữ liệu. Dữ liệu sạch sẽ được lưu ở data/processed/.
+
+02-analysis.ipynb: Thực hiện phân tích và trực quan hóa dữ liệu đã làm sạch.
 
 ## 📈 Kết quả & Insight chính
 - ✅ Thống kê số lượng cuộc tấn công theo năm
 - ✅ Thống kê phần trăm các loại hình tấn công
 - ✅ Thống kê số lượng cuộc tấn công theo quốc gia trong vòng 10 năm
-...
