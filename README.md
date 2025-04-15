@@ -2,7 +2,7 @@
 
 ## 💡 Mô tả dự án
 
-Dự án này được xây dựng bằng Python với mục tiêu phân tích dữ liệu lớn liên quan đến các mối đe dọa an ninh mạng toàn cầu, từ đó trực quan hóa và rút ra những insight quan trọng.
+Dự án này được xây dựng bằng Python với mục tiêu phân tích dữ liệu liên quan đến các mối đe dọa an ninh mạng toàn cầu, từ đó trực quan hóa và rút ra những insight quan trọng.
 
 Dự án bao gồm các bước chính:
 - ✅ Đặt vấn đề & xác định mục tiêu
