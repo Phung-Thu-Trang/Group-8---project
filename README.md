@@ -80,7 +80,15 @@ Bạn cũng có thể bấm Run All để chạy toàn bộ notebook.
 
 02-analysis.ipynb: Thực hiện phân tích và trực quan hóa dữ liệu đã làm sạch.
 
-## 📈 Kết quả & Insight chính
+## 📈 Kết quả 
 - ✅ Thống kê số lượng cuộc tấn công theo năm
 - ✅ Thống kê phần trăm các loại hình tấn công
 - ✅ Thống kê số lượng cuộc tấn công theo quốc gia trong vòng 10 năm
+- ✅ Thống kê thiệt hại tài chính theo ngành
+- ✅ Thống kê thiệt hại tài chính và số người bị ảnh hưởng theo năm
+- ✅ Thống kê tỷ lệ phần trăm lỗ hổng bảo mật trong các cuộc tấn công
+- ✅ Thống kê số lượng cuộc tấn công theo lỗ hổng bảo mật
+- ✅ Thống kê thiệt hại theo loại lỗ hổng bảo mật
+- ✅ Thống kê số lượng cuộc tấn công theo lỗ hổng bảo mật Zero-day
+- ✅ Thống kê cơ chế phòng thủ được sử dụng cho từng loại lỗ hổng bảo mật
+
