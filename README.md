@@ -92,5 +92,5 @@ Bạn cũng có thể bấm Run All để chạy toàn bộ notebook.
 - ✅ Thống kê số lượng cuộc tấn công theo lỗ hổng bảo mật Zero-day
 - ✅ Thống kê cơ chế phòng thủ được sử dụng cho từng loại lỗ hổng bảo mật
 
-Power BI: https://stneuedu-my.sharepoint.com/:u:/g/personal/11223132_st_neu_edu_vn/EUSN8ynE-1lCmSaw2165_ooBAo3VI5RfPsPjPZLYKbWJBw?e=9IqKAp
+
 
