@@ -81,6 +81,7 @@ Bạn cũng có thể bấm Run All để chạy toàn bộ notebook.
 02-analysis.ipynb: Thực hiện phân tích và trực quan hóa dữ liệu đã làm sạch.
 
 ## 📈 Kết quả 
+link dashboard Power BI: https://stneuedu-my.sharepoint.com/:u:/g/personal/11223132_st_neu_edu_vn/EUSN8ynE-1lCmSaw2165_ooBAo3VI5RfPsPjPZLYKbWJBw?e=9IqKAp
 - ✅ Thống kê số lượng cuộc tấn công theo năm
 - ✅ Thống kê phần trăm các loại hình tấn công
 - ✅ Thống kê số lượng cuộc tấn công theo quốc gia trong vòng 10 năm
