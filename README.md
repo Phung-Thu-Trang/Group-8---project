@@ -3,10 +3,10 @@
 
 | Thành viên              | % Đóng góp | Mã sinh viên |
 |-------------------------|------------|--------------|
-| Phùng Thu Trang         | 18%        |    11226507  |
-| Lê Thị Thanh Thủy       | 18%        |    11226230  |
-| Nguyễn Thị Minh Khuê    | 18%        |    11223132  |
-| Chu Thùy Linh           | 10%        |    11223349  |
+| Phùng Thu Trang         | 17.5%      |    11226507  |
+| Lê Thị Thanh Thủy       | 17.5%      |    11226230  |
+| Nguyễn Thị Minh Khuê    | 17.5%      |    11223132  |
+| Chu Thùy Linh           | 11.5%      |    11223349  |
 | Phùng Thế Hiển          | 12%        |    11222278  |
 | Lê Mạnh Đức             | 10%        |    11221362  |
 | Đặng Thị Linh Chi       | 14%        |    11220948  |
